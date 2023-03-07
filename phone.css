@@ -1,0 +1,30 @@
+/* home */
+#home{
+    height: 820px;
+
+}
+.headings{
+    font-size: 1.7rem;
+}
+
+/* Introduction */
+#pic img{
+    width: 200px;
+    height: 155px;
+
+}
+#intro h2{
+    font-size: 1rem;
+
+}
+/* contact */
+.input{
+    width: 80%;
+
+}
+#message{
+    width: 70%;
+}
+#send{
+    width:20%;
+}
